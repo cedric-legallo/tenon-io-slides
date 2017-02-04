@@ -6,3 +6,6 @@ Slides de la présentation jouée :
 
 ## Presentation au format reveal.js
 Pour la jouer il faut installer les dépendances et les plugins.
+
+## Presentation disponible en PDF
+récupérer simplement le fichier slides.pdf à la racine de ce projet
